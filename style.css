@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text&display=swap');
+
+body {
+	background-image: url("images/background.jpg");
+}
+
+img {
+	 border: solid 5px white;
+	 border-radius: 50%;
+	 width: 20%;
+	 height: auto;
+	 display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+	
+}
+ 
+h1 {
+	color: white;
+	text-align: center;
+	font-size: xx-large;
+}
+
+p {
+	text-align: center;
+	color: silver;
+	font-size: larger;
+}
+
+a {
+	color: #ff1493;
+}
+
